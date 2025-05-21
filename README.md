@@ -8,12 +8,18 @@ Los resultados obtenidos pueden ser útiles para áreas como ventas, marketing, 
 
 ---
 
+### Origen del Dataset
+
+El dataset utilizado en este análisis contiene información sobre ventas de automóviles en Estados Unidos durante 2022 y 2023. Fue descargado de Kaggle en la siguiente liga: [Car Sales Report](https://www.kaggle.com/datasets/missionjee/car-sales-report). El archivo pesa aproximadamente 3.8 MB y se incluye en el repositorio para facilitar la reproducción y el análisis de los datos.
+
+---
+
 ### Contenidos
 
-- Limpieza y preparación de datos
-- Análisis de variables categóricas y numéricas
-- Visualización de tendencias temporales y geográficas
-- Insights clave sobre preferencias de vehículos y comportamiento del mercado
+- Limpieza y preparación de datos  
+- Análisis de variables categóricas y numéricas  
+- Visualización de tendencias temporales y geográficas  
+- Insights clave sobre preferencias de vehículos y comportamiento del mercado  
 
 ---
 
@@ -25,8 +31,8 @@ Este proyecto está pensado para profesionales y analistas interesados en entend
 
 ### Tecnologías
 
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
+- Python (Pandas, Matplotlib, Seaborn)  
+- Jupyter Notebook  
 
 ---
 
